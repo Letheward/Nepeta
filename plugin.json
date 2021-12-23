@@ -1,0 +1,50 @@
+{
+  "slug": "Nepeta",
+  "name": "Nepeta",
+  "version": "2.0.0",
+  "license": "MIT",
+  "brand": "Nepeta",
+  "author": "Letheward",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "BitMixer",
+      "name": "BitMixer",
+      "description": "Mixing raw bits of incoming signals",
+      "tags": [
+        "Noise",
+        "Distortion",
+        "Waveshaper",
+        "Mixer",
+        "Effect"
+      ]
+    },
+    {
+      "slug": "PolyXform",
+      "name": "PolyXform",
+      "description": "Multiply polyphonic inputs like they are matrices",
+      "tags": [
+        "VCA",
+        "Mixer",
+        "Effect",
+        "Polyphonic"
+      ]
+    },
+    {
+      "slug": "Rotor",
+      "name": "Rotor",
+      "description": "Rotate your input like they are 3D vectors",
+      "tags": [
+        "Panning",
+        "Mixer",
+        "Effect"
+      ]
+    }
+  ]
+}
