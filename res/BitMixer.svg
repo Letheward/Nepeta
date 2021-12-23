@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.8101934"
-     inkscape:cx="-11.877184"
-     inkscape:cy="302.73009"
+     inkscape:cx="183.68203"
+     inkscape:cy="248.59222"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -234,7 +234,8 @@
     <g
        aria-label="bit shift"
        id="text22712"
-       style="font-size:3.175px;line-height:1.05;font-family:Montserrat;-inkscape-font-specification:Montserrat;font-variant-ligatures:none;word-spacing:0px;display:inline;stroke-width:0.264583">
+       style="font-size:3.175px;line-height:1.05;font-family:Montserrat;-inkscape-font-specification:Montserrat;font-variant-ligatures:none;word-spacing:0px;display:inline;stroke-width:0.264583"
+       transform="translate(-0.4291414)">
       <path
          d="m 10.786566,63.53291 q 0.23495,0 0.42545,0.10795 0.1905,0.104775 0.29845,0.29845 0.10795,0.193675 0.10795,0.441325 0,0.24765 -0.10795,0.441325 -0.10795,0.193675 -0.29845,0.301625 -0.1905,0.10795 -0.42545,0.10795 -0.20955,0 -0.377825,-0.0889 -0.1651,-0.0889 -0.2667,-0.257175 v 0.3302 H 9.9261414 v -2.35585 h 0.2254246 v 1.0033 q 0.104775,-0.161925 0.2667,-0.244475 0.1651,-0.08572 0.3683,-0.08572 z m -0.01588,1.4986 q 0.174625,0 0.3175,-0.07937 0.142875,-0.08255 0.22225,-0.231775 0.08255,-0.149225 0.08255,-0.339725 0,-0.1905 -0.08255,-0.339725 -0.07938,-0.149225 -0.22225,-0.2286 -0.142875,-0.08255 -0.3175,-0.08255 -0.1778,0 -0.320675,0.08255 -0.1397,0.07938 -0.22225,0.2286 -0.07938,0.149225 -0.07938,0.339725 0,0.1905 0.07938,0.339725 0.08255,0.149225 0.22225,0.231775 0.142875,0.07937 0.320675,0.07937 z"
          id="path23643" />
