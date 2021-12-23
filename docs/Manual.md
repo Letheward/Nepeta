@@ -15,14 +15,14 @@ Include some basic clipping and gain control, since the output can be **dangerou
     
     Bit mixing algorithm (mixing raw bits of A, B):  
     
-    1. max of A, B
-    2. A + B
-    3. A - B
-    4. A * B
-    5. A / B
-    6. A bit and B
-    7. A bit or  B
-    8. A bit xor B
+    - 1: max of A, B
+    - 2: A + B
+    - 3: A - B
+    - 4: A * B
+    - 5: A / B
+    - 6: A bit and B
+    - 7: A bit or  B
+    - 8: A bit xor B
 
 - `sign` Knob  
     

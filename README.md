@@ -10,11 +10,11 @@ Plugin for VCV Rack
 
 ## Manual Installation
 
-Copy the `Nepeta-<version>-<OS>.vcvplugin` for your OS from [release]() to your VCV Rack Plugin Directory (you can find it in Rack by clicking Help - Open user folder, and go into `plugins`).
+Copy the `Nepeta-<version>-<OS>.vcvplugin` for your OS from [release](https://github.com/Letheward/Nepeta/releases) to your VCV Rack Plugin Directory (you can find it in Rack by clicking Help - Open user folder, and go into `plugins`).
 
 ## How to Use
 
-See [`docs/Manual.md`](docs/manual.md).
+See [`docs/Manual.md`](docs/Manual.md).
 
 The `docs` directory is included in the distrubution so you can view it offline.   
 (in `Nepeta` of Plugin Directory after Rack decompressed the `.vcvplugin`)
