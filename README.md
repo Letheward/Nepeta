@@ -16,7 +16,7 @@ Copy the `Nepeta-<version>-<OS>.vcvplugin` for your OS from [release](https://gi
 
 See [`docs/Manual.md`](docs/Manual.md).
 
-The `docs` directory is included in the distrubution so you can view it offline.   
+The `docs` directory is included in the distribution so you can view it offline.   
 (in `Nepeta` of Plugin Directory after Rack decompressed the `.vcvplugin`)
 
 ## How to Build

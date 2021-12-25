@@ -1,6 +1,6 @@
 # Manual
 
-This manual is included in the distrubution so you can view it offline.   
+This manual is included in the distribution so you can view it offline.   
 You can find it in Rack by clicking Help - Open user folder, and go into `plugins/Nepeta/docs/`.
 
 ## BitMixer
