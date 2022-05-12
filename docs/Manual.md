@@ -166,12 +166,10 @@ Include 2 rotors, one from 4 Knobs, one from 4 Inputs. Rotate input vector by th
     - `zx`: zx bivector component (y axis rotation)
     - `xy`: xy bivector component (z axis rotation)
     
-    Thus give us 2 rotors. (note: these are not "half angle" rotors)  
-    
+    Thus these give us 2 rotors. They will be normalized, and when all the components are 0, it will be set to the "do-nothing" rotor (s is 1, others 0).  
 - 3 Inputs and 3 Outputs
 
     In vector and Out vector, denoted as usual: (x, y, z).  
-    In and Out in each row have same axis.
 
 - Context Menu: `Rotor Input Mode`
     
@@ -193,4 +191,3 @@ Include 2 rotors, one from 4 Knobs, one from 4 Inputs. Rotate input vector by th
     - [Let's remove Quaternions from every 3D Engine: Intro to Rotors from Geometric Algebra](https://www.youtube.com/watch?v=Idlv83CxP-8)
 
 ---
-
