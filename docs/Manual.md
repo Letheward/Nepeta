@@ -1,6 +1,7 @@
 # Manual
 
-This manual is included in the distribution so you can view it offline.   
+This manual is included in the distribution so you can view it offline. 
+
 You can find it by:
 
 - Rack interface: Help -> Open user folder, and go into `plugins/Nepeta/docs/`.
